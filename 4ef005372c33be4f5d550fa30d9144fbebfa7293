@@ -1,0 +1,35 @@
+test/language/module-code/ambiguous-export-bindings/namespace-import-source-and-export-1_FIXTURE.js
+  4dde07d32edc7254 1,4
+test/language/module-code/source-phase-import/reexport-source-binding-namespace-get.js
+  4dde07d32edc7254 1-38
+test/language/module-code/ambiguous-export-bindings/namespace-import-source-and-export-2_FIXTURE.js
+  4dde07d32edc7254 1,4
+test/language/module-code/ambiguous-export-bindings/namespace-unambiguous-if-import-source-and-export.js
+  4dde07d32edc7254 1,5-8,10-14,16-28,30-31,33,35-39,41-49,51-52,54-57
+test/language/module-code/source-phase-import/reexport-source-binding_FIXTURE.js
+  4dde07d32edc7254 1-5
+test/language/module-code/source-phase-import/reexport-source-binding-named-import.js
+  4dde07d32edc7254 1-41
+test/language/module-code/ambiguous-export-bindings/namespace-import-source-and-export-reexport_FIXTURE.js
+  4dde07d32edc7254 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "4ef005372c33be4f5d550fa30d9144fbebfa7293",
+  "prompts": {
+    "4dde07d32edc7254": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1b436adaeffeCfbCKa5K89s5qO",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 155,
+      "total_deletions": 84,
+      "accepted_lines": 135,
+      "overriden_lines": 0
+    }
+  }
+}

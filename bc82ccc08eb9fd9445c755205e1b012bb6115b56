@@ -1,0 +1,27 @@
+test/language/module-code/ambiguous-export-bindings/namespace-import-source-and-export-2_FIXTURE.js
+  4dde07d32edc7254 4
+test/language/module-code/ambiguous-export-bindings/namespace-unambiguous-if-import-source-and-export.js
+  4dde07d32edc7254 5-7,10-11,13-22,24-26,28-29,31,33-37,39-47,49-50,52-55
+test/language/module-code/ambiguous-export-bindings/namespace-import-source-and-export-1_FIXTURE.js
+  4dde07d32edc7254 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "bc82ccc08eb9fd9445c755205e1b012bb6115b56",
+  "prompts": {
+    "4dde07d32edc7254": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1b436adaeffeCfbCKa5K89s5qO",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Guy Bedford",
+      "messages": [],
+      "total_additions": 43,
+      "total_deletions": 58,
+      "accepted_lines": 43,
+      "overriden_lines": 0
+    }
+  }
+}
